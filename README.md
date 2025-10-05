@@ -8,6 +8,8 @@ Exploratory data analysis project on a movie dataset. It includes data cleaning,
 * Pandas<br>
 * Matplotlib<br>
 * Seaborn<br>
+## IDE Used:<br>
+* Jupyter Notebook<br>
 ## Key Features:<br>
 * Genre categorization and distribution analysis<br>
 * Identifying trends such as most frequent genres and top-rated movies<br>

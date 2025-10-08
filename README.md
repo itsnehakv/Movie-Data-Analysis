@@ -15,3 +15,10 @@ Exploratory data analysis project on a movie dataset. It includes data cleaning,
 * Identifying trends such as most frequent genres and top-rated movies<br>
 * Year-wise release analysis and popularity trends<br>
 * Visualizations using Seaborn and Matplotlib for clear insights<br>
+
+## Overview:<br>
+The goal is to answer key business/data questions such as:
+
+## 📊 Key Findings
+
+## 📈 Visual Insights Preview:

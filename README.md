@@ -49,4 +49,23 @@ The goal is to answer key business/data questions such as:
 ### Release Date Column Distribution
 <img width="574" height="449" alt="image" src="https://github.com/user-attachments/assets/ebeedced-3cd1-487c-a281-ea596da75dcd" />
 
+### ✮ | How to Run:<br>
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/itsnehakv/Movie-Data-Analysis.git
+   cd Movie-Data-Analysis
+
+2. **Install Dependencies**<br>
+Make sure you have pip installed, then run:<br>
+   ```bash
+    pip install -r requirements.txt
+3. **Launch Jupyter Notebook**<br>
+    ```bash
+    jupyter notebook
+4. **Open the Notebook**<br>
+In your browser, open:<br>
+`Movie Data Analysis Project.ipynb`<br>
+
+5. **Run the Notebook**
 

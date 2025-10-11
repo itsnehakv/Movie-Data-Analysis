@@ -19,6 +19,13 @@ Exploratory data analysis project on a movie dataset. It includes data cleaning,
 ## Overview:<br>
 The goal is to answer key business/data questions such as:
 
-## 📊 Key Findings
+* Which movie genre appears most often?
+* Which category in 'Vote_Average' has the highest count?
+* Which movie got the highest popularity vote? What is its genre?
+* Which movie got the lowest popularity vote? What is its genre?
+* Which year saw the highest number of movie releases?
+
+## Key Findings: <br>
+<p> The 'Drama' genre appears most often</p>
 
 ## 📈 Visual Insights Preview:
